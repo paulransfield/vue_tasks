@@ -5,7 +5,7 @@
 
 <script>
 export default {
-  name: 'Wiki-kupupu',
+  name: 'Wiki',
   inheritAttrs: false, // disable 'non-props' warning
 };
 </script>
