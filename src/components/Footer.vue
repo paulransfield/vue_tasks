@@ -7,7 +7,7 @@
       </button>
     </router-link> 
     <router-link to="/wiki">
-      <button :style="{ background: color }" class="btn">
+      <button :style="{ background: color1 }" class="btn">
         Wiki
       </button>
     </router-link>
@@ -17,6 +17,9 @@
 <style scoped>
 a {
   color: #333;
+}
+a {
+  color1: #990000;
 }
 
 footer {
