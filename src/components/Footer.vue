@@ -2,12 +2,12 @@
   <footer>
     <p>Copyright &copy; 2021</p>
     <router-link to="/about">
-      <button :style="{ background: #669900 }" class="btn">
+      <button :style="{ background: color }" class="btn">
         About
       </button>
     </router-link> 
     <router-link to="/wiki">
-      <button :style="{ background: #990000 }" class="btn">
+      <button :style="{ background: color }" class="btn">
         Wiki
       </button>
     </router-link>
