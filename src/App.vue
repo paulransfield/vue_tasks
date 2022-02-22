@@ -2,7 +2,7 @@
   <div class="container">
     <Header
       @toggle-add-task="toggleAddTask"
-      title="Task Trackers"
+      title="Task Trackers Paul Ransfield"
       :showAddTask="showAddTask"
     />
     <router-view :showAddTask="showAddTask"></router-view>
