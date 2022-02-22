@@ -1,8 +1,8 @@
 <template>
   <footer>
     <p>Copyright &copy; 2021</p>
-    <router-link to="/about">About</router-link>
-    <router-link to="/wiki">About</router-link>
+    <router-link to="/about">About</router-link> 
+    <router-link to="/wiki">Wiki</router-link>
   </footer>
 </template>
 
